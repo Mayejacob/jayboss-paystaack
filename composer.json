@@ -1,0 +1,19 @@
+{
+    "name": "jayboss/paystack",
+    "description": "This is a paystack  payment gateway integration with laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jayboss\\Paystack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayejacob",
+            "email": "mayejacob3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
